@@ -10,8 +10,8 @@ Bu klasör Fingofy uygulamasının gizlilik politikasını içerir.
 ## GitHub Pages
 
 Bu dosyalar GitHub Pages üzerinden yayınlanır:
-- Türkçe: https://umaycorporation.github.io/Fingofy/
-- İngilizce: https://umaycorporation.github.io/Fingofy/en.html
+- Türkçe: https://umaycorporation.github.io/fingofy-site/
+- İngilizce: https://umaycorporation.github.io/fingofy-site/en.html
 
 ## Güncelleme
 
